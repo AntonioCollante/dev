@@ -1,0 +1,10 @@
+.contenedor {
+    border: 1px red solid;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .derecha {
+    text-align: right;
+  }
