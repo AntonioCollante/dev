@@ -1,0 +1,42 @@
+.articulo {
+    margin: 0;
+    padding: 0.3rem;
+    background-color: #eee;
+}
+
+.titulo {
+    background-color: darkred;
+    color: white;
+    text-align: center;
+}
+
+.button2 {background-color: #008CBA;} /* Blue */
+
+.articulo>h1,
+.un-articulo {
+    margin: 0.5rem;
+    padding: 0.3rem;
+    font-size: 1.2rem;
+}
+
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+.un-articulo {
+    background: center/contain  url('https://cdn.shortpixel.ai/spai/w_898+q_lossy+ret_img/https://www.eude.pe/wp-content/uploads/sites/8/2020/10/Dise%C3%B1o-sin-t%C3%ADtulo-53-820x450.png') white;
+}
+
+.un-articulo>h2,
+.un-articulo>p {
+    margin: 0.2rem;
+    font-size: 1rem;
+}
